@@ -30,3 +30,6 @@ pip install pygame
 
 ## Run the Game
 python shooting_asteroids_game.py
+
+## How to Test
+```bash``` python -m unittest test_shooting_asteroids_game.py
