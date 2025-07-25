@@ -33,3 +33,10 @@ python shooting_asteroids_game.py
 
 ## How to Test
 ```bash``` python -m unittest test_shooting_asteroids_game.py
+
+## 📄 License
+This project is licensed under the MIT License.
+
+## ✍️ Author
+Andrei Iliescu
+Built with focus on clean UI and functional design.
