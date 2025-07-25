@@ -38,5 +38,5 @@ python shooting_asteroids_game.py
 This project is licensed under the MIT License.
 
 ## Author
-Andrei Iliescu
-Built with focus on clean UI and functional design.
+- Andrei Iliescu
+- Built with focus on clean UI and functional design.
